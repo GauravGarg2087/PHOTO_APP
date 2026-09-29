@@ -68,7 +68,7 @@ flutter run
 
 A walkthrough using screenshots of the project have been provided here:
 
-**[View Documentation & Screenshots](https://drive.google.com/file/d/15F-LlmpoYpEnZGj9bycmul5OX7zK33av/view?usp=drivesdk)**
+**[View Screenshots](https://drive.google.com/file/d/15F-LlmpoYpEnZGj9bycmul5OX7zK33av/view?usp=drivesdk)**
 
 ## About
 
